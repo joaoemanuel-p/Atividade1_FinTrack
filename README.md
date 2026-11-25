@@ -166,9 +166,3 @@ A integração é realizada em modo de leitura. O aplicativo não executa transf
 | `npm run format` | Formata o código com Prettier |
 
 Os testes devem ser executados no ambiente configurado antes de considerar a aplicação validada.
-
-## Responsável pelo projeto
-
-**João Emanuel**
-
-Projeto acadêmico desenvolvido no curso de Análise e Desenvolvimento de Sistemas (ADS).
